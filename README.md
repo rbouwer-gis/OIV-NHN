@@ -9,7 +9,7 @@ Hierin vind je de instructies om het programma te installeren en te gebruiken.
 
 ## Over het project
 
-OIV (operationele informatievoorziening) is een onderdeel van het VRNHN GIS-applicatielandschap. Binnen de geo-informatieketen vormt VRR OIV een bron voor onder andere het KaartViewer geoportaal en de MOI.  
+OIV (operationele informatievoorziening) is een onderdeel van het VRNHN GIS-applicatielandschap. Binnen de geo-informatieketen vormt VRR OIV een bron voor onder andere het KaartViewer geoportaal en de CityGis.  
 
 OIV zelf is opgebouwd uit een aantal onderdelen: een QGIS project met kaartlagen en tekenmogelijkheden, PostGIS database definities en Geoserver kaartlagen met bijbehorende opmaak en definities. 
 
